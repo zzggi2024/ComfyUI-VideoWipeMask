@@ -1,0 +1,5 @@
+onnxruntime
+rapidocr
+cryptography==46.0.3
+keyring==25.6.0
+certifi==2025.11.12

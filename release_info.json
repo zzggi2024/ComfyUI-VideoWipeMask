@@ -1,0 +1,12 @@
+{
+  "plugin_name": "ComfyUI-VideoWipeMask",
+  "github_url": "https://github.com/zzggi2024/comfyui-videowipemask",
+  "release_time": "2026-11-03 17:29:30",
+  "auth_scope_type": "ACCOUNT",
+  "drm_mode": "strong",
+  "release_id": "78e63dc809a0416ab7bb2b81c06fe911",
+  "release_version": "20261103172928",
+  "package_hash": "58cfaace9dc95ce029391e9919655406638c29aae481ef65b28e2dbfdf613b4e",
+  "server_url": "https://zhijia88.cn/",
+  "signing_key_id": "cea89f49ac597fda"
+}
